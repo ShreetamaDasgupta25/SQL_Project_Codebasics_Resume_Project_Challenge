@@ -32,7 +32,7 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 1.**SQL Workbench** : For SQL Queries
 
-2.**MS Excel and Power BI**: For creating visuals
+2.**Power BI**: For creating visuals
 
 3.**MS Powerpoint**: To present the insights along with the visuals
 ## Learnings from the Project
