@@ -1,9 +1,8 @@
-# Codebasics-Resume-Project-Challenge
+# Provide Insights to Management in Consumer Goods Domain
 
 This is the submission for one of the resume project challenges conducted by Codebasics.
 
-**Challenge** : 
-Provide Insights to Management in Consumer Goods Domain
+**Challenge** : Provide Insights to Management in Consumer Goods Domain
 
 **Domain**:Consumer Goods 
 
